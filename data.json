@@ -1,0 +1,102 @@
+{
+  "persons": {
+    "1": {
+      "id": 1,
+      "name": "Christopher Nolan",
+      "birth_year": 1970
+    },
+    "11": {
+      "id": 11,
+      "name": "John Smither",
+      "birth_year": 1998
+    },
+    "2": {
+      "id": 2,
+      "name": "Leonardo DiCaprio",
+      "birth_year": 1974
+    },
+    "3": {
+      "id": 3,
+      "name": "Joseph Gordon-Levitt",
+      "birth_year": 1981
+    },
+    "4": {
+      "id": 4,
+      "name": "Elliot Page",
+      "birth_year": 1987
+    },
+    "5": {
+      "id": 5,
+      "name": "Matthew McConaughey",
+      "birth_year": 1969
+    },
+    "6": {
+      "id": 6,
+      "name": "Zayar",
+      "birth_year": 2002
+    },
+    "7": {
+      "id": 7,
+      "name": "Htet",
+      "birth_year": 2002
+    }
+  },
+  "movies": [
+    {
+      "id": 5,
+      "title": "HelloWorld I.",
+      "director_id": 6,
+      "release_year": 2025,
+      "actors": [
+        7,
+        6,
+        4
+      ],
+      "length": 131
+    },
+    {
+      "id": 1,
+      "title": "Inception",
+      "director_id": 1,
+      "release_year": 2010,
+      "actors": [
+        2,
+        3,
+        4
+      ],
+      "length": 148
+    },
+    {
+      "id": 2,
+      "title": "Interstellar",
+      "director_id": 1,
+      "release_year": 2014,
+      "actors": [
+        5
+      ],
+      "length": 169
+    },
+    {
+      "id": 3,
+      "title": "Nokia Movie",
+      "director_id": 6,
+      "release_year": 2025,
+      "actors": [
+        6,
+        4
+      ],
+      "length": 175
+    },
+    {
+      "id": 4,
+      "title": "Nokia Movie I.",
+      "director_id": 6,
+      "release_year": 2025,
+      "actors": [
+        6,
+        4
+      ],
+      "length": 115
+    }
+  ]
+}
